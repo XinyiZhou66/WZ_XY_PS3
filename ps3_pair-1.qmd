@@ -19,6 +19,7 @@ include-before-body:
 ---
 
 ```{python}
+
 import pandas as pd
 import numpy as np
 import altair as alt
@@ -32,11 +33,12 @@ def preview_data(df):
         x='Random Numbers:Q',
         y='count()'
     )
-    return [df.head(), histogram]
+    return [df.head(), df.describe(), histogram]
 
 
 result = preview_data(data)
 print(result[0])
-result[1].show()
+print(result[1])
+result[2].show()
 
 ```
