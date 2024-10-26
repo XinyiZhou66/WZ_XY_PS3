@@ -1,0 +1,16 @@
+Partner1: Partner1_Xinyi Zhou, Partner1_GitHub_XinyiZhou66
+Partner2: Partner2_Wuzhen Han, Partner2_GitHub_hanwuzhen
+
+b2975bc - XinyiZhou66, 5 minutes ago : Update ps3_pair-1.qmd
+c5b341c - XinyiZhou66, 8 minutes ago : Merge pull request #5 from XinyiZhou66/histogram
+ca1fb9a - hanwuzhen, 8 minutes ago : Merge branch 'main' into histogram
+a66fcdc - XinyiZhou66, 17 minutes ago : Merge pull request #4 from XinyiZhou66/describe
+d5c5afb - XinyiZhou66, 19 minutes ago : his
+b5e71a7 - Hwz, 27 minutes ago : change code
+780eb57 - XinyiZhou66, 34 minutes ago : Merge pull request #2 from XinyiZhou66/merge_conflict_Wuzhen_2
+1d45bb5 - XinyiZhou66, 35 minutes ago : Merge branch 'main' into merge_conflict_Wuzhen_2
+2e459fb - Hwz, 39 minutes ago : Update ps3_pair-1.qmd
+1fb679c - hanwuzhen, 41 minutes ago : Merge pull request #1 from XinyiZhou66/merge_conflict_Xinyi_1
+8430f4a - XinyiZhou66, 51 minutes ago : Update ps3_pair-1.qmd
+6f9d6c8 - XinyiZhou66, 57 minutes ago : Create ps3_pair-1.qmd
+b01dae5 - XinyiZhou66, 57 minutes ago : Initial commit

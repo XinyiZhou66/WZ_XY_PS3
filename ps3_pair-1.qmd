@@ -19,9 +19,6 @@ include-before-body:
 ---
 
 
-Partner1: Partner1_Xinyi Zhou, Partner1_GitHub_XinyiZhou66
-Partner2: Partner2_Wuzhen Han, Partner2_GitHub_hanwuzhen
-
 ```{python}
 
 import pandas as pd
